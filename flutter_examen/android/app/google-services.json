@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717535755865",
+    "project_id": "diferidofirebase",
+    "storage_bucket": "diferidofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717535755865:android:106837f21c5c1cc2517b48",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717535755865-jhjfvaq175gs7jm2mnd2ul6pf3rs0iha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-nbSE9WiH5eASO-7QzUDQU8YPW2dUJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717535755865-jhjfvaq175gs7jm2mnd2ul6pf3rs0iha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
